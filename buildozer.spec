@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Kivy Launcher
+title = Kivymd Launcher
 
 # (str) Package name
 package.name = launcher
